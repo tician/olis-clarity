@@ -2,32 +2,32 @@
 Hash: SHA512
 
 Codename: jessie
-Date: Thu, 17 Oct 2019 17:12:10 UTC
+Date: Sat, 19 Oct 2019 00:07:54 UTC
 Architectures: armhf
 Components: non-free
 MD5Sum:
- 86a5e2208692a6188c45826aeed42a7f 761 non-free/binary-armhf/Packages
- 89788f0ea9cf221babfa2a34002f471b 470 non-free/binary-armhf/Packages.gz
+ c435b1586b27b30f2b8d04796e78db6e 761 non-free/binary-armhf/Packages
+ 9ad29d155901dd8e0125439b6d725b6f 471 non-free/binary-armhf/Packages.gz
  0be925870235dcad5af6d3f36f8214d4 40 non-free/binary-armhf/Release
 SHA1:
- bbe479a5761c6ced5b16e126de01e6a3a2e05435 761 non-free/binary-armhf/Packages
- 6711afc1433c391605e32403c6633d189e680bb2 470 non-free/binary-armhf/Packages.gz
+ 9fb11dbe6a5132682e2d1240973dd8ffe0f088be 761 non-free/binary-armhf/Packages
+ 8c1d208477f3878f2e2e229a1d0afbb78c436f29 471 non-free/binary-armhf/Packages.gz
  1218cdaee87ab871bde61f3abe47f05f9b809fcc 40 non-free/binary-armhf/Release
 SHA256:
- 752b6b16079dfe4ec04bb3bc9d2ca419bf57fadef73fcf4392be563166ab5a93 761 non-free/binary-armhf/Packages
- 6776128b8f7178c8b4fbfd398634d2d941ae5b56f6aae653f4f216613e39b3bf 470 non-free/binary-armhf/Packages.gz
+ dc7a51ee84a8c449bfb54a03a0fe84da59b77eac65439a50b3d169fd879b1de1 761 non-free/binary-armhf/Packages
+ 3a2346ac5dc88ed01149ea346702e2cedb49c1552366614a8ea4f11c483d3b94 471 non-free/binary-armhf/Packages.gz
  eb3ec9398f5f3d5af92351312bc2b430c6e557cca81e2b2db6015c0a66d7d052 40 non-free/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEb+RiQS9X+2UA0QmLBR5q6KuUON4FAl2ooOsACgkQBR5q6KuU
-ON7eYQwAjod3b/yvfUtpcOF1ynuWmhusQBIF2CYfbxYg3P4S5Az7H1JD9jeWnga0
-47fJrK8cZUGOtt1dPTUd2pIOEtDV28yyRfgNqkgV4vvZnP+iNTNpSbgmmdnHeyVd
-jKaDScK4FSeCjVb2jC8eJP4u9m8YjeW3Iv7U8iGGO1eyQWgkz2xB7V3KwzJe50/x
-n4zf0JHeXhIzdL1+p/FLbForTJO1SFPSK/NCpbebO1GKFoVFX3GFrD9cL7gwxTrI
-MAvBUMPKlh/Pj1ePK7gajmgYj2MYrS9uK539iq25UTSJo4SNW2Po6TfmGIWXkmG0
-cHVgIDmJezOdWRAcsmnzohXqXLcRztvWQc/mfUjuN2iHb35+v7SG10Hjyg31YETB
-T97HLISNU81v0H+qnNEB57xUknbnqe0exAVyrdXxVPohRTdepbbj0YpmSqUzy5sf
-adLmGbgm3cyFPfeUGCpCkO0qT6j965F13CtKDsWi8ia18B/F4+rhWV9dGO5aW9DO
-ebjGx34P
-=iLnQ
+iQGzBAEBCgAdFiEEb+RiQS9X+2UA0QmLBR5q6KuUON4FAl2qU9sACgkQBR5q6KuU
+ON4FTAv+PoBIHUhegIIkVxXxOPDyVIrR4+1T7WJ11iQ7u++1t4LDmkVYoqG/XaH1
+18vdtehjbYl1TgsDo0Ppx8dYVI5tfJwxjV74EW5Kz6zoSgDeACEyFt5lTTzGuzjc
+eet8S6ZiIJIr6OcRVdzbPKlbYZnRrXdnVt7sEpWy2vEdtG48r+lsIcD7yOr0vzkw
+p1cz6HOHxJPF68AHEDWGmA2ZNE96Zf/kl5XzW8C+PuY0dVHQxJ8fPcvAjhW881Wg
+lzZ7SFCm+YWrLQrfHtJ1OVOzu8vKegdePPmLz5VITi8bO3U5NXEAB+Jzc2/YtaSn
+ffOi5L13yhGQmJMTC9bIxHJHM+hF+wxbiFOYRnHkcrsma0cT5EBMcpdkU3ttmV79
+y/25SSS9hgACWbMT1lURj5ctEw6lbVD7gL89NvWTb79iR8D4zPAChb2FYLHqLIQR
+h8naqOR1EOB7nB4b3epBH8ZCF75I/sHi6AdQd5rEV33BfoLBwkjRcP6wbJ/VP0ag
+lrF0IQvj
+=kIar
 -----END PGP SIGNATURE-----
