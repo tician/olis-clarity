@@ -1,16 +1,16 @@
 Codename: jessie
-Date: Fri, 01 Nov 2019 23:37:46 UTC
+Date: Sun, 10 Nov 2019 22:39:18 UTC
 Architectures: armhf
 Components: non-free
 MD5Sum:
- cd221d996e624e6f4ea3c149ab114a72 787 non-free/binary-armhf/Packages
- d44116c8075fd5296f62e97b2dea1a56 488 non-free/binary-armhf/Packages.gz
+ 17c79d9743cd8ffd010c40d225fe611b 787 non-free/binary-armhf/Packages
+ ff3a78a5d1af02c27e17fc838b949eee 490 non-free/binary-armhf/Packages.gz
  0be925870235dcad5af6d3f36f8214d4 40 non-free/binary-armhf/Release
 SHA1:
- 08403f0c61000f153bf7ba07e6bc7e0b9ea8ac5a 787 non-free/binary-armhf/Packages
- 33355ba6c748186610a71cd5ade633b4c9dedb93 488 non-free/binary-armhf/Packages.gz
+ c8b6e17b38f7e6cec8f79ff12990e092f6519220 787 non-free/binary-armhf/Packages
+ 7f9b9cefe0e0ce5858156cfc9fade168606596a8 490 non-free/binary-armhf/Packages.gz
  1218cdaee87ab871bde61f3abe47f05f9b809fcc 40 non-free/binary-armhf/Release
 SHA256:
- 7f5f651aa4c6769489d0bf6b27a8c8397d00efac687cd7f8a83f35721a7cc4c5 787 non-free/binary-armhf/Packages
- cc2ced38d25206815453d8f166e950599064871665b74131bf84c7e5f832a8b6 488 non-free/binary-armhf/Packages.gz
+ 5aa06e15d8ee58fd560758d8da7441f3171fb9d7e634724f40f3b2da204f56a4 787 non-free/binary-armhf/Packages
+ f4cb082435ba567f7142e31dd6823db7dee24a65a79ef328001a73d90197f624 490 non-free/binary-armhf/Packages.gz
  eb3ec9398f5f3d5af92351312bc2b430c6e557cca81e2b2db6015c0a66d7d052 40 non-free/binary-armhf/Release
