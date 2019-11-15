@@ -2,32 +2,32 @@
 Hash: SHA512
 
 Codename: jessie
-Date: Sun, 10 Nov 2019 23:07:34 UTC
+Date: Fri, 15 Nov 2019 02:55:49 UTC
 Architectures: armhf
 Components: non-free
 MD5Sum:
- ef6e684504fedbf01cdec8f35e920cb4 787 non-free/binary-armhf/Packages
- 6a851d8c06c7ae4ed3f7f58c5d23640a 488 non-free/binary-armhf/Packages.gz
+ 74d8b44befaacf7b7a9f0438f95b3b7b 787 non-free/binary-armhf/Packages
+ 499846a5a5aed855568142f59c5268db 485 non-free/binary-armhf/Packages.gz
  0be925870235dcad5af6d3f36f8214d4 40 non-free/binary-armhf/Release
 SHA1:
- 9b2ef9d35f55634a15fdfc5ad095cbedf73b88a4 787 non-free/binary-armhf/Packages
- 95ea7469a33a5c6804a9b71d05327862fa192b9d 488 non-free/binary-armhf/Packages.gz
+ 47376cf30b01f9119e573719ea5d92162ea46a8f 787 non-free/binary-armhf/Packages
+ c16b75dc28e365d6dbdf6ecd677145122ae7f8d7 485 non-free/binary-armhf/Packages.gz
  1218cdaee87ab871bde61f3abe47f05f9b809fcc 40 non-free/binary-armhf/Release
 SHA256:
- bf87e53ce754c48b012827775d406234b1b5ec98e7e1b7acbe14327c6319601a 787 non-free/binary-armhf/Packages
- 6fc8bc8cf49dfb58158ba2adf32c995d22604d0764a3e13792377dc7fef7646f 488 non-free/binary-armhf/Packages.gz
+ e1f86a50751b5e16104c94b282acbbf067d1697d0e96c0bac6c74bec2a32108d 787 non-free/binary-armhf/Packages
+ 4ca7eb03a98321169aa9f3e37abba9793a1fb1eb68fe049f76b9d2d141bb682e 485 non-free/binary-armhf/Packages.gz
  eb3ec9398f5f3d5af92351312bc2b430c6e557cca81e2b2db6015c0a66d7d052 40 non-free/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEb+RiQS9X+2UA0QmLBR5q6KuUON4FAl3ImDcACgkQBR5q6KuU
-ON447QwA3ghqRqNeULVSBiVIzicXOh/DL7cjfkMoY+/XP1qQcCnFWTGO+hEsFulO
-6o85K/T/wWZHIPWkwZroFAh3529QNSZU5L7AYrjMNQ3KxYcJaDGVXGq5N04Ekw3f
-DR34Lg69A90DTdI5Y/VOHsClyDMdIuGBje2LSERXNx5GUIT88d1RVSycAy/PILnU
-O4GLy4gjGW5IhsjrmUKT1k+csJQrevm3d0ls2PzxYoIMJO3XziRhk0UQ9QsmuH4A
-froKRJx1rkHsXQrKWbs5UJt4SnXaJvf4auHfoJnmJWnh9Ax4bgwpZUXNx9/Ib58w
-9uf1DjoobLCCDAKRaVd9V6P0NhtUU+FjyGYbwUwnCHIFLeIa3ezMmtckX3k13AmT
-Pa9XzAR1o/N0xtK4JfFggps6M5qtluDQtSaRFk23QyWMtGHOwciwg/B61GD/emDn
-yKgobbDkcZvnGYiURIiwmSFkp/JvvVflLRTQkzDDkxyNN2KMCr2Qwr5EqmBh7Fu1
-AKLXgyRY
-=BU5C
+iQGzBAEBCgAdFiEEb+RiQS9X+2UA0QmLBR5q6KuUON4FAl3OE7YACgkQBR5q6KuU
+ON48Swv+MtRDi48vq4d6m9+czFnulBevVGoV5MJfAcZulTLsgn1zPtog+ZSNi1Dr
+rIKMG5tjKUN7ybeBJbwVN3sf1Q/0ZiFUMbssejyl72geBgHugj7B3HDJHUTwHAWx
+ZQw40YoDCJTql8XglVt/VtibO3/I0Xntal9Vayjjbbo66K8okwAEGFrGi2Y/bExW
+vOGhBgT3/y8CA8VhzRRroQLSSbtnOwM0Nf9BloNKc9k9nOBDJWNTj174DPDjFLGo
+XrK09tl6c0yUBcyJrUgklgB2mP7RpZiyd1mYfD7RI/WwCsPZExwH8o+q56wu1jVh
+fpf5nJJ1MggPbfWGgv3NiuJU86tRlA4d78ram3Yu9Gqrk0dVaf8BFBZqvpNxOtYN
+N5CBk6dYebBUMYE76W9QJZLyrVs9vknVUZar44hk1xggTuHRlyjH1/idxOqw9OXJ
+U2x4BckN2H1DEOKzyI/hjE176LGKaQL/hAPlX4T/jH/s60xymg/EVPlw0j48vgH7
+HhTmRVzH
+=s2fr
 -----END PGP SIGNATURE-----

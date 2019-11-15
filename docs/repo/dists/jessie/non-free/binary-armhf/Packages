@@ -1,5 +1,5 @@
 Package: olis-clarity
-Version: 0~191108
+Version: 0~191114
 Architecture: armhf
 Maintainer: olis-clarity-maintainers <matt@olisweb.com>
 Installed-Size: 511
@@ -7,11 +7,11 @@ Depends: apache2, network-manager, libatk1.0-0 (>= 1.12.4), libc6 (>= 2.7), libc
 Homepage: https://www.olisclarity.com/
 Priority: optional
 Section: unknown
-Filename: pool/non-free/o/olis-clarity/olis-clarity_0~191108_armhf.deb
-Size: 311220
-SHA256: c91657b137d606a39370a708d83aed54b9d4035c3af1fee24137843f882fa255
-SHA1: ba7e460e39c7b767f5ad0aed6e6a2aa0da239145
-MD5sum: 533eb99b6451e638d6a80de36bc2ab59
+Filename: pool/non-free/o/olis-clarity/olis-clarity_0~191114_armhf.deb
+Size: 311486
+SHA256: ff6f9264f38fc190db5123a46174bfe1f4f053e37541df7b11b2d608463a75ac
+SHA1: 5dcf4460434cb295dc3e026acb68a490e38fb623
+MD5sum: 5fb2e69c7272b327d2ddd7f04302624e
 Description: OLIS Clarity
  Interface for OLIS CLarity units
 
