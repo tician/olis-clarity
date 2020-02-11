@@ -8,10 +8,10 @@ Homepage: https://www.olisclarity.com/
 Priority: optional
 Section: unknown
 Filename: pool/non-free/o/olis-clarity/olis-clarity_0~200207_armhf.deb
-Size: 311538
-SHA256: 3aaa42c6c6ab11ed2876d0284b7deff1be5989922e660dd3c4d59ed0b5a1c127
-SHA1: 3ffa8ab9bd5042b5cc223ad3fcabad15146a2915
-MD5sum: ee87048cf8117c3641c95d15d9d33d25
+Size: 311560
+SHA256: 89477367b8017cfd06cc51afa8d31c4558c06618549f12c2d8d3933dc6bdbeb4
+SHA1: c16f39d410c7ac5bd181bb0edb6960a1670eb645
+MD5sum: 634b509e73e8111c0ed931a77c3d9148
 Description: OLIS Clarity
  Interface for OLIS CLarity units
 
