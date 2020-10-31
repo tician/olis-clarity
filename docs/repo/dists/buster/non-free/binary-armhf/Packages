@@ -1,17 +1,17 @@
 Package: olis-clarity
-Version: 1~200304
+Version: 1~201030
 Architecture: armhf
 Maintainer: olis-clarity-maintainers <matt@olisweb.com>
-Installed-Size: 443
+Installed-Size: 461
 Depends: apache2, network-manager, libatk1.0-0 (>= 1.12.4), libc6 (>= 2.7), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.2.4), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.16.0), libgtk-3-0 (>= 3.0.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0)
 Homepage: https://www.olisclarity.com/
 Priority: optional
 Section: unknown
-Filename: pool/non-free/o/olis-clarity/olis-clarity_1~200304_armhf.deb
-Size: 306924
-SHA256: 26eab66affcc9fc037d16314a34212f21f14663d74bd0cf5481634aaf81e97c2
-SHA1: cc1d9fe95d9430cce604285af3c989102fdab207
-MD5sum: f2202f026a5e42c7edc85560c057a210
+Filename: pool/non-free/o/olis-clarity/olis-clarity_1~201030_armhf.deb
+Size: 309280
+SHA256: da6db12370db4ce7142d214ad7eb935a09c05561ba852771d2c01cf20e623841
+SHA1: 78e0f634473b123bf0c7ba9f5b6de6cf966e53e0
+MD5sum: 5965eb1d8edc09cfaa794cbb5d9fd7a7
 Description: OLIS Clarity
  Interface for OLIS Clarity units
 
